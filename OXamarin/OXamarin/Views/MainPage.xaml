@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="OXamarin.Views.MainPage"
+             Title="MainPage">
+
+    <!--iOS場合は上部に余白を設ける-->
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="0, 20, 0, 0"/>
+    </ContentPage.Padding>
+
+    <StackLayout>
+        <Entry x:Name="entry"
+               Placeholder="選択して下さい"/>
+        <ListView ItemsSource="{Binding Items}"
+                  ItemTapped="ListView_ItemTapped"/>
+    </StackLayout>
+
+</ContentPage>
