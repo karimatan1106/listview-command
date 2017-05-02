@@ -10,7 +10,7 @@ namespace OXamarin.Behaviors
 
         public DelegateCommand Command
         {
-            get { return (DelegateCommand) GetValue(CommandProperty); }
+            get { return (DelegateCommand)GetValue(CommandProperty); }
             set { SetValue(CommandProperty, value); }
         }
 
@@ -22,8 +22,12 @@ namespace OXamarin.Behaviors
                 //選択されていなければ実行しない
                 if (e.SelectedItem != null)
                 {
-                    //選択時にイベントの発火
-                    Bindable_ItemSelected(s, e);
+                    //実行するコマンドが無ければ実行しない
+                    if (Command != null)
+                    {
+                        //選択時にイベントの発火
+                        Bindable_ItemSelected(s, e);
+                    }
 
                     //選択後の項目背景色を消す
                     AssociatedObject.SelectedItem = null;
