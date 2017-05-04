@@ -26,3 +26,32 @@ c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin\bin\
 c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
 c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin\obj\Debug\OXamarin.dll.mdb
 c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin\bin\Debug\OXamarin.dll.mdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\OXamarin.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\OXamarin.pdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.Forms.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.Unity.Forms.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.Forms.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.Unity.Forms.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Prism.Unity.Forms.dll.config
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\obj\Debug\OXamarin.csprojResolveAssemblyReference.cache
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\obj\Debug\OXamarin.App.xaml.g.cs
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\obj\Debug\OXamarin.Views.MainPage.xaml.g.cs
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\obj\Debug\OXamarin.dll
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\obj\Debug\OXamarin.pdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\obj\Debug\OXamarin.dll.mdb
+C:\Users\y\Documents\GitHub\listview-command\OXamarin\OXamarin\bin\Debug\OXamarin.dll.mdb
